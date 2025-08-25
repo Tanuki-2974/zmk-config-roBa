@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: kumamuk-git
       url-base: https://github.com/kumamuk-git
-      name: caksoylar
+    - name: caksoylar
       url-base: https://github.com/caksoylar
   projects:
     - name: zmk
